@@ -1,0 +1,48 @@
+body {
+background-color: olivedrab;
+}
+
+header {
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
+
+h1 {
+color: whitesmoke
+}
+
+main {
+max-width: 700px;
+margin-left: auto;
+margin-right: auto;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+article {
+background-color: darkolivegreen;
+padding: 6px 10px;
+border-radius: 6px;
+color: whitesmoke;
+}
+
+.verses {
+    font-style: italic;
+}
+ #myStory {
+     text-align: center;
+ }
+
+ .border {
+     max-width: 900px;
+ }
+
+.pictures {
+    width: 100%
+}
+
+#contactMe {
+    text-align: center;
+}
